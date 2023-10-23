@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-23T14:04:44 IST" name="Suite" finished-at="2023-10-23T14:04:56 IST" duration-ms="12190">
+    <groups>
+    </groups>
+    <test started-at="2023-10-23T14:04:44 IST" name="Test1" finished-at="2023-10-23T14:04:51 IST" duration-ms="7372">
+      <class name="GroupID.ArtifactID.multiBrowserParallelexecution">
+        <test-method is-config="true" signature="browsersetup(java.lang.String)[pri:0, instance:GroupID.ArtifactID.multiBrowserParallelexecution@16150369]" started-at="2023-10-23T14:04:44 IST" name="browsersetup" finished-at="2023-10-23T14:04:48 IST" duration-ms="3836" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsersetup -->
+        <test-method signature="invokingBrowsers(java.lang.String)[pri:0, instance:GroupID.ArtifactID.multiBrowserParallelexecution@16150369]" started-at="2023-10-23T14:04:48 IST" name="invokingBrowsers" finished-at="2023-10-23T14:04:51 IST" duration-ms="3081" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokingBrowsers -->
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:GroupID.ArtifactID.multiBrowserParallelexecution@16150369]" started-at="2023-10-23T14:04:51 IST" name="browserClose" finished-at="2023-10-23T14:04:51 IST" duration-ms="418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- GroupID.ArtifactID.multiBrowserParallelexecution -->
+    </test> <!-- Test1 -->
+    <test started-at="2023-10-23T14:04:44 IST" name="Test3" finished-at="2023-10-23T14:04:52 IST" duration-ms="7524">
+      <class name="GroupID.ArtifactID.multiBrowserParallelexecution">
+        <test-method is-config="true" signature="browsersetup(java.lang.String)[pri:0, instance:GroupID.ArtifactID.multiBrowserParallelexecution@34bde49d]" started-at="2023-10-23T14:04:44 IST" name="browsersetup" finished-at="2023-10-23T14:04:48 IST" duration-ms="3836" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsersetup -->
+        <test-method signature="invokingBrowsers(java.lang.String)[pri:0, instance:GroupID.ArtifactID.multiBrowserParallelexecution@34bde49d]" started-at="2023-10-23T14:04:48 IST" name="invokingBrowsers" finished-at="2023-10-23T14:04:50 IST" duration-ms="2425" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokingBrowsers -->
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:GroupID.ArtifactID.multiBrowserParallelexecution@34bde49d]" started-at="2023-10-23T14:04:50 IST" name="browserClose" finished-at="2023-10-23T14:04:52 IST" duration-ms="1222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- GroupID.ArtifactID.multiBrowserParallelexecution -->
+    </test> <!-- Test3 -->
+    <test started-at="2023-10-23T14:04:44 IST" name="Test" finished-at="2023-10-23T14:04:52 IST" duration-ms="7539">
+      <class name="GroupID.ArtifactID.multiBrowserParallelexecution">
+        <test-method is-config="true" signature="browsersetup(java.lang.String)[pri:0, instance:GroupID.ArtifactID.multiBrowserParallelexecution@5965d37]" started-at="2023-10-23T14:04:44 IST" name="browsersetup" finished-at="2023-10-23T14:04:48 IST" duration-ms="3836" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsersetup -->
+        <test-method signature="invokingBrowsers(java.lang.String)[pri:0, instance:GroupID.ArtifactID.multiBrowserParallelexecution@5965d37]" started-at="2023-10-23T14:04:48 IST" name="invokingBrowsers" finished-at="2023-10-23T14:04:51 IST" duration-ms="2844" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokingBrowsers -->
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:GroupID.ArtifactID.multiBrowserParallelexecution@5965d37]" started-at="2023-10-23T14:04:51 IST" name="browserClose" finished-at="2023-10-23T14:04:52 IST" duration-ms="820" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- GroupID.ArtifactID.multiBrowserParallelexecution -->
+    </test> <!-- Test -->
+    <test started-at="2023-10-23T14:04:44 IST" name="Test2" finished-at="2023-10-23T14:04:56 IST" duration-ms="12190">
+      <class name="GroupID.ArtifactID.multiBrowserParallelexecution">
+        <test-method is-config="true" signature="browsersetup(java.lang.String)[pri:0, instance:GroupID.ArtifactID.multiBrowserParallelexecution@624ea235]" started-at="2023-10-23T14:04:44 IST" name="browsersetup" finished-at="2023-10-23T14:04:52 IST" duration-ms="8379" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsersetup -->
+        <test-method signature="invokingBrowsers(java.lang.String)[pri:0, instance:GroupID.ArtifactID.multiBrowserParallelexecution@624ea235]" started-at="2023-10-23T14:04:52 IST" name="invokingBrowsers" finished-at="2023-10-23T14:04:55 IST" duration-ms="2815" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokingBrowsers -->
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:GroupID.ArtifactID.multiBrowserParallelexecution@624ea235]" started-at="2023-10-23T14:04:55 IST" name="browserClose" finished-at="2023-10-23T14:04:56 IST" duration-ms="984" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- GroupID.ArtifactID.multiBrowserParallelexecution -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
