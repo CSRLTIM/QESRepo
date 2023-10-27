@@ -12,8 +12,12 @@ public void sampletest()
 	System.out.println("Direct update in GIT");
 	System.out.println("CSRLTIM Committing");
 	//updated
+//<<<<<<< mcsekharamain
 	System.out.println("MCSekhara Changes Committing");
 	
+//=======
+	System.out.println("tested");
+//>>>>>>> master
 }
 
 }
